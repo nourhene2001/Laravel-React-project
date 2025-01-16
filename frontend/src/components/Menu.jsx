@@ -27,7 +27,7 @@ function Menu() {
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0" style={{ maxHeight: "100px" }} navbarScroll>
             <Nav.Link as={Link} to="/categories" style={styles.navLink}>
-              Categories
+              Genres
             </Nav.Link>
             <Nav.Link as={Link} to="/articles" style={styles.navLink}>
               List of Books
